@@ -1,2 +1,2 @@
-# Calculator_pt1
+# Calculator
 Calculator that supports basic arithmetic and trigonometric operations.
